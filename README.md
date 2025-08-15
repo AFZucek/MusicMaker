@@ -6,5 +6,5 @@ I used my music knowledge to genarate pretty chord structures, with random notes
 It was a good exersize to create different classes for all the musical objects, like beats, rests and more. Measures had the capacity to include multiple melodic notes as well as base notes.
 
 Example of music created:
-
+![Music Pic](exported_music_pic.pdf)
 
